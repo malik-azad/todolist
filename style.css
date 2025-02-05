@@ -143,9 +143,9 @@ input[type="checkbox"]{
 
  /* Footer Styles */
  footer {
-    margin-top: 20vh;
+    margin-top: 30vh;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
     color: #53CBFB;
     
   }
@@ -155,12 +155,12 @@ input[type="checkbox"]{
     margin-bottom: 10px;
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 12px;
   }
   
   footer .social-icons a img {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%; /* Makes the images circular */
     transition: transform 0.3s ease;
   }
