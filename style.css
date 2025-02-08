@@ -161,11 +161,11 @@ input[type="checkbox"]{
   footer .social-icons a img {
     width: 30px;
     height: 30px;
-    border-radius: 50%; /* Makes the images circular */
+    border-radius: 50%; 
     transition: transform 0.3s ease;
   }
   
   footer .social-icons a img:hover {
-    transform: scale(1.1); /* Slight zoom effect on hover */
+    transform: scale(1.2); /* Slight zoom effect on hover */
   }
  
