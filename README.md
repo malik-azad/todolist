@@ -25,7 +25,7 @@ This is a simple ToDo list web application built with HTML, CSS, and JavaScript.
 
 ## Setup
 
-1. Clone the repository: `git clone <https://github.com/malik-azad/To-do-list.git>`
+1. Clone the repository: `git clone <https://github.com/malik-azad/Todolist.git>`
 2. Open `index.html` in your preferred web browser.
 
 ## Demo
